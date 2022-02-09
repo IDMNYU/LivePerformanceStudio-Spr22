@@ -1,0 +1,11 @@
+{
+	"http_method" : "post",
+	"url" : "https://westcentralus.api.cognitive.microsoft.com/vision/v1.0/analyze?visualFeatures=Categories&language=en",
+	"post_data" : 	{
+		"Content-Type" : "application/json",
+		"Ocp-Apim-Subscription-Key" : "b8b812e54dc149779349ad0da3bff6e6",
+		"url" : "https://vignette4.wikia.nocookie.net/peggle/images/3/3a/Fnord.png/revision/latest?cb=20150315091602"
+	}
+,
+	"parse_type" : "json"
+}
